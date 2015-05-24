@@ -1,4 +1,3 @@
-miso
+Game Dev Lou Code of Conduct
 ====
 
-Miso docs

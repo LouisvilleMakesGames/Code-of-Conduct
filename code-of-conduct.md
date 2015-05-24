@@ -2,7 +2,7 @@
 
 All **community participants**--including members and guests of members, event hosts, sponsors, presenters, exhibitors and attendees--are expected to abide by this code of conduct.
 
-By becoming a member of Bento Miso, or attending or hosting any event at Bento Miso in any capacity, you agree to abide by this code of conduct, and cooperate with organizers who enforce it.
+By becoming a member of GameDevLou, or attending or hosting any event at GameDevLou in any capacity, you agree to abide by this code of conduct, and cooperate with organizers who enforce it.
 
 ## Expected Behavior
 
@@ -37,11 +37,14 @@ Anyone who engages in sustained ‬unacceptable behavior may be sanctioned ‬or
 
 ### What to do if you need help
 
-If you witness or are subject to unacceptable behavior, or experience marginalizing or silencing behavior that limits your full participation in any Bento Miso event, please talk to any of the following people:
+If you witness or are subject to unacceptable behavior, or experience marginalizing or silencing behavior that limits your full participation in any GameDevLou event, please talk to any of the following people:
 
 - The host of the event you are attending (listed on the event page)
-- [Henry Faber][1]
-- [Jennie Faber][2]
+- [Alex Bezuska][1]
+- [Barry Rowe][2]
+- [Eric Lathrop][3]
+- [Mattie Richards][4]
+
 
 Your conversation will be held in confidence.
 
@@ -51,5 +54,7 @@ Community‭ ‬organizers‭ ‬are‭ ‬available‭ ‬to‭ ‬help‭ you 
 
 *By registering for or hosting an event, you agree to make your name visible to event organizers and facility staff. This visibility helps maintain the safety of our space. Anyone not registered for an event may be denied entry at the discretion of the event host.*
 
-[1]:	mailto:henry@bentomiso.com
-[2]:	mailto:jennie@bentomiso.com
+[1]:	mailto:alex@twoscoopgames.com
+[2]:	mailto:barry@roaringcatgames.com
+[3]:	mailto:eric@twoscoopgames.com
+[4]:	mailto:mattie@mintchipleaf.com
