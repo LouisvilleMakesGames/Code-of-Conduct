@@ -40,11 +40,12 @@ Anyone who engages in sustained ‬unacceptable behavior may be sanctioned ‬or
 If you witness or are subject to unacceptable behavior, or experience marginalizing or silencing behavior that limits your full participation in any GameDevLou event, please talk to any of the following people:
 
 - The host of the event you are attending (listed on the event page)
-- [Alex Bezuska][1]
-- [Barry Rowe][2]
-- [Eric Lathrop][3]
-- [Mattie Richards][4]
-
+- Alex Bezuska (alex@twoscoopgames.com)[mailto:alex@twoscoopgames.com]
+- Allen-Michael Brower (allenmbrower@gmail.com)[mailto:allenmbrower@gmail.com]
+- Eric Lathrop (eric@twoscoopgames.com)[mailto:eric@twoscoopgames.com]
+- Chip Lynch (chip@chiplynch.com)[mailto:chip@chiplynch.com]
+- Mattie “Mint” Richards (mattie@mintchipleaf.com)[mailto:mattie@mintchipleaf.com]
+- Barry Rowe (barry@roaringcatgames.com)[mailto:barry@roaringcatgames.com]
 
 Your conversation will be held in confidence.
 
@@ -53,8 +54,3 @@ When you come to us with a problem during an event, it is our top priority to he
 Community‭ ‬organizers‭ ‬are‭ ‬available‭ ‬to‭ ‬help‭ you ‬engage‭ ‬with‭ ‬local‭ ‬law‭ ‬enforcement (solely at your request).
 
 *By registering for or hosting an event, you agree to make your name visible to event organizers and facility staff. This visibility helps maintain the safety of our space. Anyone not registered for an event may be denied entry at the discretion of the event host.*
-
-[1]:	mailto:alex@twoscoopgames.com
-[2]:	mailto:barry@roaringcatgames.com
-[3]:	mailto:eric@twoscoopgames.com
-[4]:	mailto:mattie@mintchipleaf.com
