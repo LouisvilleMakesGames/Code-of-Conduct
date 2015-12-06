@@ -41,7 +41,7 @@ If you witness or are subject to unacceptable behavior, or experience marginaliz
 
 - The host of the event you are attending (listed on the event page)
 - Alex Bezuska [alex@twoscoopgames.com](mailto:alex@twoscoopgames.com)
-- Allen-Michael Brower [allenmbrower@gmail.com)[mailto:allenmbrower@gmail.com)
+- Allen-Michael Brower [allenmbrower@gmail.com](mailto:allenmbrower@gmail.com)
 - Eric Lathrop [eric@twoscoopgames.com](mailto:eric@twoscoopgames.com)
 - Chip Lynch [chip@chiplynch.com](mailto:chip@chiplynch.com)
 - Mattie “Mint” Richards [mattie@mintchipleaf.com](mailto:mattie@mintchipleaf.com)
