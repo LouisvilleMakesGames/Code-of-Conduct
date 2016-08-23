@@ -41,13 +41,13 @@ If you witness or are subject to unacceptable behavior, or experience marginaliz
 
 
 *   The host of the event you are attending (listed on the event page)
-*   Alex Bezuska <abezuska@louisvillemakesgames.org>
-*   Allen-Michael Brower <abrower@louisvillemakesgames.org>
-*   Eric Lathrop <elathrop@louisvillemakesgames.org>
-*   Chip Lynch <chip@chiplynch.com>
-*   Mattie “Mint” Richards <mrichards@louisvillemakesgames.org>
-*   Barry Rowe <browe@louisvillemakesgames.org>
-*   Cara Smith <csmith@louisvillemakesgames.org>
+*   Alex Bezuska  *He/Him*  <abezuska@louisvillemakesgames.org>
+*   Allen-Michael Brower  *He/Him*  <abrower@louisvillemakesgames.org>
+*   Eric Lathrop  *He/Him*  <elathrop@louisvillemakesgames.org>
+*   Chip Lynch  *He/Him*  <chip@chiplynch.com>
+*   Mattie “Mint” Richards  *She/Her*  <mrichards@louisvillemakesgames.org>
+*   Barry Rowe  *He/Him*  <browe@louisvillemakesgames.org>
+*   Cara Smith  *She/Her*  <csmith@louisvillemakesgames.org>
 
 Your conversation will be held in confidence.
 
