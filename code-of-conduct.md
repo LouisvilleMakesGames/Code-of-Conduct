@@ -1,6 +1,6 @@
 # Code of Conduct
 
-All **community participants**--including members and guests of members, event hosts, sponsors, presenters, exhibitors and attendees–-are expected to abide by this code of conduct.
+All **community participants**--including members and guests of members, event hosts, sponsors, presenters, exhibitors and attendees--are expected to abide by this code of conduct.
 
 By becoming a member of Warp Zone, or attending or hosting any event at Warp Zone in any capacity, or any event Louisville Makes Games! hosts (including GameDevLou meetups), you agree to abide by this code of conduct, and cooperate with facilitators who enforce it.
 
